@@ -1,2 +1,0 @@
-rootProject.name = 'openmuc-jrxtx'
-include ":gnu-io", ":jrxtx", ":jrxtxWrapper"
